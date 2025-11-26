@@ -1,0 +1,97 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosyncfg
+*.sln.docstates
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.manifest
+*.application
+
+# Publish artifacts
+app.publish/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+*.nuget.props
+*.nuget.targets
+
+# Visual Studio cache files
+*.cache
+*.ilk
+*.log
+*.vspscc
+*.vssscc
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# Click-Once directory
+publish/
+
+# Backup & report files
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+*.rptproj.bak
+
+# Temporary files
+*.tmp
+*.temp
+TempPE/
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Office files
+~$*
+
+# FileListAbsolute
+*.FileListAbsolute.txt
+
+# Distribution files (large installers)
+Distri/
