@@ -92,6 +92,7 @@ $RECYCLE.BIN/
 
 # FileListAbsolute
 *.FileListAbsolute.txt
+*.txt
 
 # Distribution files (large installers)
 Distri/
